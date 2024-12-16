@@ -20,4 +20,4 @@ Installs the latest version of [AdAway](https://github.com/AdAway/AdAway) as a s
 - Rooted device
 
 ## Changelog
-[View changelog here](url)
+[View changelog here](https://raw.githubusercontent.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/refs/heads/main/changelog.md)

@@ -1,7 +1,9 @@
-id=spkmsystemless
+id=adawayadblocker
 name=Adaway - Ad Blocker
 version=v1.0
 versionCode=1
 author=Cyberdev
 description=Will make the latest version of AdAway as a system app via systemless.
-updateJson=
+support=https://github.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/issues
+changelog=https://raw.githubusercontent.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/refs/heads/main/changelog.md
+updateJson=https://raw.githubusercontent.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/refs/heads/main/update.json
