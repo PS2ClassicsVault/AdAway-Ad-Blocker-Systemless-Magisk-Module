@@ -1,10 +1,10 @@
 # AdAway - Ad Blocker Systemless Magisk Module
 
 ### Version:
-v1.0
+v1.1
 
 ### Last Updated:
-12/16/24
+01/10/25
 
 ## Description
 Installs the latest version of [AdAway](https://github.com/AdAway/AdAway) as a systemless app.
