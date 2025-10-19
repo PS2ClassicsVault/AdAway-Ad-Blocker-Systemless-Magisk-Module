@@ -1,3 +1,5 @@
+![AdAway](adaway.png)
+
 # AdAway - Ad Blocker Systemless Magisk Module
 
 ### Version:
