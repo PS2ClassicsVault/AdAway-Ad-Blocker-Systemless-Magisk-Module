@@ -1,7 +1,7 @@
 id=adawayadblocker
 name=Adaway - Ad Blocker
-version=v1.2
-versionCode=3
+version=v1.3
+versionCode=4
 author=Cyberdev
 description=Will make the latest version of AdAway as a systemless app (Android 10+).
 support=https://github.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/issues
