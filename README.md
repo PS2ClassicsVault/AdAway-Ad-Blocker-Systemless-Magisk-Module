@@ -23,3 +23,7 @@ Installs the latest version of [AdAway](https://github.com/AdAway/AdAway) as a s
 
 ## Changelog
 [View changelog here](https://raw.githubusercontent.com/PS2ClassicsVault/AdAway---Ad-Blocker-Systemless-Magisk-Module/refs/heads/main/changelog.md)
+
+## Now Available on MMRL via:
+- [SSR Modules Repo](https://mmrl.dev/repository/ssmithSSR/AdAwayMagiskModule?utm_medium=share&utm_source=com.dergoogler.mmrl)
+- [IzzyOnDroid Magisk Repo](https://mmrl.dev/repository/aptoftisk/adawayadblocker?utm_medium=share&utm_source=com.dergoogler.mmrl)
